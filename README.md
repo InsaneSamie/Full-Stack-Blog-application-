@@ -1,5 +1,17 @@
 # Full-Stack-Blog-application-
 
+https://github.com/user-attachments/assets/141ee8db-563f-4abd-bb21-43892223f433
+
+## Features
+<b>Responsive Design:</b> Looks great on both desktop and mobile devices.<br>
+<b>Markdown Support:</b> Write your blog posts in Markdown.<br>
+<b>Syntax Highlighting:</b> Code snippets are beautifully highlighted.<br>
+<b>Comment System:</b> Readers can leave comments on your posts.<br>
+<b>Tagging:</b> Organize your posts with tags.<br>
+<b>Search Functionality:</b> Easily find articles with the search feature.<br>
+
+There are many files few are attached for your reference.
+
 ![image](https://github.com/user-attachments/assets/e624fc76-e7d1-4243-a507-52d95b13ec9e)
 
 ![image](https://github.com/user-attachments/assets/ace6ffe9-8c15-4bdc-9914-eb9d1b46d3fc)
