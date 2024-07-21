@@ -2,6 +2,10 @@
 
 https://github.com/user-attachments/assets/141ee8db-563f-4abd-bb21-43892223f433
 
+## For subscribe to newsletter
+We can use html, css, javascript and SMTP. After verification the required email will be saved in the admin database.
+https://github.com/InsaneSamie/OTP-Verification
+
 ## Features
 <b>Responsive Design:</b> Looks great on both desktop and mobile devices.<br>
 <b>Markdown Support:</b> Write your blog posts in Markdown.<br>
